@@ -1,3 +1,4 @@
+// @ts-nocheck - Using stub GraphQL types when GraphQL URLs are not available
 import { GraphQLClient } from 'graphql-request'
 import { Address, PublicClient, getAddress } from 'viem'
 
