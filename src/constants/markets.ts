@@ -336,7 +336,8 @@ export const ChainMarkets: {
     [SupportedMarket.popcat]: getAddress('0xd1551be8c92b35212033B41dBb21efA86389768D'),
   },
   [arbitrumSepolia.id]: {
-    [SupportedMarket.eth]: getAddress('0x0142a8bfF8D887Fc4f04469fCA6c66F5e0936Ea7'),
+    [SupportedMarket.eth]: getAddress('0x6e710fDDE613609C5044813db674D4da35a593FB'),
+    [SupportedMarket.btc]: getAddress('0xFEb2588d42768f0dCeF6652E138d3C9D306e1FaB'),
     [SupportedMarket.cmsqETH]: getAddress('0xfC51de1f1a4ddeE5AD50df492f0A642cF1894E73'),
     [SupportedMarket.xau]: getAddress('0x122b781CF4fCa219aDB9704132D7fa11460D4fBa'),
     [SupportedMarket.meem]: getAddress('0x7A2fE407C4F459eD62ea75fEeBB27188e4F9E6aD'),
